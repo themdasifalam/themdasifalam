@@ -7,6 +7,6 @@
 
 > ɪ ᴅᴏɴ'ᴛ ᴡᴏʀᴋ ғᴏʀ ᴍᴏɴᴇʏ. ɪ ᴡᴏʀᴋ ғᴏʀ ᴛʜᴇ ᴠᴀʟᴜᴇ ɪ ᴄʀᴇᴀᴛᴇ.
 
-> At Footprint, every step we take is guided by a clear sense of purpose and a commitment to making a positive impact. We embark on this journey with a vision and striving to create a lasting legacy in Education. We believe that success is not solely measured by financial achievements but by the positive influence we exert on our students and the world at large. In our "Journey with Purpose," sustainability is ingrained in our practices, and social responsibility is at the core of our decision-making. We actively engage with our students, reinforcing our commitment to creating a better world.
+<p align="justify"> At Footprint, every step we take is guided by a clear sense of purpose and a commitment to making a positive impact. We embark on this journey with a vision and striving to create a lasting legacy in Education. We believe that success is not solely measured by financial achievements but by the positive influence we exert on our students and the world at large. In our "Journey with Purpose," sustainability is ingrained in our practices, and social responsibility is at the core of our decision-making. We actively engage with our students, reinforcing our commitment to creating a better world. </p>
 
 > I'm a researcher, and I have written a book, named as "ᴛʜᴇ ɢʀᴀɴᴅ ɪᴍᴘᴇᴄᴄᴀʙʟᴇ ᴜɴɪᴠᴇʀsᴇ."
