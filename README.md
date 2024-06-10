@@ -8,8 +8,6 @@
   </tr>
 </table>
   
-![counter](https://komarev.com/ghpvc/?username=themdasifalam&style=flat-square)
-
 <code style="color : aqua">"Footprint : Journey with Purpose"</code>
 
 > ɪ ᴅᴏɴ'ᴛ ᴡᴏʀᴋ ғᴏʀ ᴍᴏɴᴇʏ. ɪ ᴡᴏʀᴋ ғᴏʀ ᴛʜᴇ ᴠᴀʟᴜᴇ ɪ ᴄʀᴇᴀᴛᴇ.
@@ -30,3 +28,7 @@
     <td><a href="https://www.instagram.com/footprint.co.in/"><img src="https://github.com/themdasifalam/themdasifalam/blob/main/FP%202.gif" /></a></td>
   </tr>
 </table>
+
+
+![counter](https://komarev.com/ghpvc/?username=themdasifalam&style=flat-square)
+
