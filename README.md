@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://github.com/themdasifalam/themdasifalam/blob/main/FP%201.gif" /></a></td>
-    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://github.com/themdasifalam/themdasifalam/blob/main/FP%202.gif" /></a></td>
+    <td><a href="https://www.youtube.com/@FootprintClasses"><img src="https://github.com/themdasifalam/themdasifalam/blob/main/FP%201.gif" /></a></td>
+    <td><a href="https://www.instagram.com/footprint.co.in/"><img src="https://github.com/themdasifalam/themdasifalam/blob/main/FP%202.gif" /></a></td>
   </tr>
 </table>
